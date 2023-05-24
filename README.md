@@ -1,2 +1,2 @@
 # BootstrapStartUpSite
-Bootstrap Project: Mock Start Up Website
+IN PROGRESS - Bootstrap Project: Mock Start Up Website - Not Published
